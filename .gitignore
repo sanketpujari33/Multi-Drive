@@ -1,6 +1,4 @@
 node_modules/
-.env
-.env.*
 !.env.example
 
 logs/
@@ -17,8 +15,8 @@ coverage/
 .DS_Store
 Thumbs.db
 
-.vscode/
 .idea/
 .vercel
 VERCEL_FIX_NOTES.md
 .claude/
+config.bat
